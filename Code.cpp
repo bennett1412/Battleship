@@ -61,7 +61,7 @@ int checkBoat1(int x, int y, int boat1x[2], int boat1y[2], char boat1t[2],char s
      }
      return 0;
 }
-//Function to check if the boat is destroyed or not
+//Function to check if the boat is destroyed or not destroyed
 //boat 1
 int checkDestroy1(char boat1t[2]){
     for (int i=0;i<2;i++) {
