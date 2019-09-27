@@ -1,17 +1,6 @@
 # Battleship
 
 
-Skip to content
-Using Gmail with screen readers
-battleship 
-
-Conversations
-0.99 GB (0%) of 115 GB used
-Manage
-Terms · Privacy · Program Policies
-Last account activity: 33 minutes ago
-Details
-
 //Battleship - A Game of Strategy
 #include<iostream.h>
 #include<conio.h>
@@ -360,5 +349,4 @@ if (c=='e') result=1;
 } while(result!=1);
 }
 //The end
-BATTLE1.CPP
-Displaying BATTLE1.CPP.
+
