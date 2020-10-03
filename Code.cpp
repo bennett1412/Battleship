@@ -10,7 +10,7 @@ void rules()
 cout<<"1.The computer has placed three boats of sizes 2,3 and 4 randomly.\n";
 cout<<"2.None of the boats are placed diagonally.\n";
 cout<<"3.No two boats are touching each other.\n";
-cout<<"4.To shoot your missiles onto your opponet's grid, follow the instructions \n";
+cout<<"4.To shoot your missiles onto your opponent's grid, follow the instructions \n";
 cout<<"5.Cannot exit the game while inputing a value\n";
 cout<<"6.Scores will be provided on the basis of hits and misses.";
 }
