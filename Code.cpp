@@ -7,10 +7,10 @@
 void rules()
 {
 //Function to display rules of the game
-cout<<"1.The computer has placed three boats of size 2,3 and 4 randomly.\n";
+cout<<"1.The computer has placed three boats of sizes 2,3 and 4 randomly.\n";
 cout<<"2.None of the boats are placed diagonally.\n";
 cout<<"3.No two boats are touching each other.\n";
-cout<<"4.To shoot your missiles onto your opponets grid follow the instructions \n";
+cout<<"4.To shoot your missiles onto your opponet's grid, follow the instructions \n";
 cout<<"5.Cannot exit the game while inputing a value\n";
 cout<<"6.Scores will be provided on the basis of hits and misses.";
 }
@@ -199,7 +199,7 @@ sea[i][j]='#';
 
 }
 
-//Program to accept coordinates at which user wants shoot
+//Program to accept coordinates to which the user wants to shoot
 void shoot(int &x,int &y)
 {
 cout<<"\n\nEnter the coordinates at which wanna shoot:\n";
@@ -220,7 +220,7 @@ do {
 
 }
 
-//Function to show user hits and misses
+//Function to show user's hits and misses
 void prgrid(char sea[8][8])
 {
 int i,j,c;
