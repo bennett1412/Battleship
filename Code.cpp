@@ -220,7 +220,7 @@ do {
 
 }
 
-//Function to show user's hits and misses
+//Function to show the user's hits and misses
 void prgrid(char sea[8][8])
 {
 int i,j,c;
