@@ -140,6 +140,7 @@ void boat4(int boat4x[5],int boat4y[5],char boat4t[5]){
      }
 
 }
+// new change 
 //Function to check hit or miss
 //boat 4
 int checkBoat4(int x, int y, int boat4x[5], int boat4y[5], char boat4t[5],char sea1[8][8]){
